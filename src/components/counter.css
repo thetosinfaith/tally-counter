@@ -1,14 +1,13 @@
+
 span{
     
 }
 
 .button{
-    padding: 10px 20px;
-    display: flex;
-    justify-content: center;
-    align-items: center;
+   padding: 10px 20px;
 }
 
 .parent-container{
-    
+    background-color: #33333D;
+
 }
